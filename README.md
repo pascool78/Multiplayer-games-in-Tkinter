@@ -37,29 +37,28 @@ Utilisation:
 Installation:
 
 Linux Ubuntu/Debian:
-`` `sh
+```sh
 $ sudo apt install python3 python3-pip
 $ git clone https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter.git
-$ cd Super-simple-client-serveur-jeux-multijoueurs-dans-tkinter
+$ cd Super-simple-client-server-multiplayer-games-in-tkinter
 $ sudo pip3 install -r requiment.txt
-`` ''
+```
 
 Démarrez le seveur:
-`` `sh
+```sh
 $ cd bin
 $ sudo python3 server.py
-`` ''
+```
 
 Démarrer le client 1:
-`` `sh
+```sh
 $ python3 clienttk.py 1 2
-`` ''
+```
 
 Démarrez le client 2:
-`` `sh
+```sh
 $ python3 clienttk.py 2 1
-`` ''
-
+```
 Avertissement: Au bas des fichiers server.py et clienttk.py, une adresse IP est marquée (192.168.0.2), veuillez la remplacer par l'adresse du serveur.
 
 
