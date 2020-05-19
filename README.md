@@ -4,8 +4,9 @@ Use:
 
 Installation:
 
-Linux:
+Linux Ubuntu/Debian:
 ```sh
+$ sudo apt install python3 python3-pip
 $ git clone https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter.git
 $ cd Super-simple-client-server-multiplayer-games-in-tkinter
 $ sudo pip3 install -r requiment.txt
@@ -35,8 +36,9 @@ Utilisation:
 
 Installation:
 
-Linux:
+Linux Ubuntu/Debian:
 `` `sh
+$ sudo apt install python3 python3-pip
 $ git clone https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter.git
 $ cd Super-simple-client-serveur-jeux-multijoueurs-dans-tkinter
 $ sudo pip3 install -r requiment.txt
