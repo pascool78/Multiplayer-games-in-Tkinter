@@ -28,7 +28,7 @@ $ sudo python3 server.py
 ```
 
 Start client 1:
-`` `sh
+```sh
 $ python3 clienttk.py 1 2
 ```
 
