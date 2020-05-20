@@ -8,6 +8,7 @@ Installation:
 Go to https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter/releases.
 <br/>Take the most recent version look in assets debubuntuX.X.deb
 <br/>Like here:
+<br/>Video to illustrate the installation of .deb: 
 <br/>Then execute the command:
 ```sh
 $ sudo dpkg -i debuntuX.X.deb
