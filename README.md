@@ -3,19 +3,19 @@ English:
 Use:
 
 Installation:
-Linux Ubuntu / Debian:
+<br/> Linux Ubuntu / Debian:
 
 Go to https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter/releases.
-Take the most recent version look in assets debubuntuX.X.deb
-Like here:
-Then execute the command:
+<br/>Take the most recent version look in assets debubuntuX.X.deb
+<br/>Like here:
+<br/>Then execute the command:
 ```sh
 $ sudo dpkg -i debuntuX.X.deb
 ```
 In the directory where you have downloaded the .deb.
 
 Linux and Mac:
-`` `sh
+```sh
 $ git clone https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter.git
 $ cd Super-simple-client-server-multiplayer-games-in-tkinter
 $ sudo pip3 install -r requiment.txt
@@ -33,7 +33,7 @@ $ python3 clienttk.py 1 2
 ```
 
 Start client 2:
-`` `sh
+```sh
 $ python3 clienttk.py 2 1
 ```
 Warning: At the bottom of the server.py and clienttk.py files, an IP address is marked (192.168.0.2), please replace it with the server address.
@@ -44,12 +44,12 @@ Français:
 Utilstaion:
 
 Installation:
-Linux Ubuntu/Debian:
+<br/>Linux Ubuntu/Debian:
 
 Aller sur https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter/releases
-Prenez la version la plus récente chercher dans assets debubuntuX.X.deb
-Comme ici:
-Puis executer la commande:
+<br/>Prenez la version la plus récente chercher dans assets debubuntuX.X.deb
+<br/>Comme ici:
+<br/>Puis executer la commande:
 ```sh
 $ sudo dpkg -i debuntuX.X.deb
 ```
