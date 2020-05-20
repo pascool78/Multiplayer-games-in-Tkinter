@@ -3,42 +3,60 @@ English:
 Use:
 
 Installation:
+Linux Ubuntu / Debian:
 
-Linux Ubuntu/Debian:
-```sh
-$ sudo apt install python3 python3-pip
+Go to https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter/releases
+Take the most recent version look in assets debubuntuX.X.deb
+Like here:
+Then execute the command:
+`` `sh
+$ sudo dpkg -i debuntuX.X.deb
+`` ''
+In the directory where you have downloaded the .deb.
+
+Linux and Mac:
+`` `sh
 $ git clone https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter.git
 $ cd Super-simple-client-server-multiplayer-games-in-tkinter
 $ sudo pip3 install -r requiment.txt
-```
+`` ''
 
 Start the seveur:
-```sh
+`` `sh
 $ cd bin
 $ sudo python3 server.py
-```
+`` ''
 
 Start client 1:
-```sh
+`` `sh
 $ python3 clienttk.py 1 2
-```
+`` ''
 
 Start client 2:
-```sh
+`` `sh
 $ python3 clienttk.py 2 1
-```
+`` ''
+Warning: At the bottom of the server.py and clienttk.py files, an IP address is marked (192.168.0.2), please replace it with the server address.
 
-Warning: In the bottom of the server.py and clienttk.py files an ip address is marked (192.168.0.2), please replace it with the server address.
 
 Français:
 
-Utilisation:
+Utilstaion:
 
 Installation:
-
 Linux Ubuntu/Debian:
+
+Aller sur https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter/releases
+Prenez la version la plus récente chercher dans assets debubuntuX.X.deb
+Comme ici:
+Puis executer la commande:
 ```sh
-$ sudo apt install python3 python3-pip
+$ sudo dpkg -i debuntuX.X.deb
+```
+Dans le répertoire ou vous avez télécharger le .deb.
+
+Linux et Mac:
+```sh
 $ git clone https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter.git
 $ cd Super-simple-client-server-multiplayer-games-in-tkinter
 $ sudo pip3 install -r requiment.txt
@@ -60,5 +78,3 @@ Démarrez le client 2:
 $ python3 clienttk.py 2 1
 ```
 Avertissement: Au bas des fichiers server.py et clienttk.py, une adresse IP est marquée (192.168.0.2), veuillez la remplacer par l'adresse du serveur.
-
-
