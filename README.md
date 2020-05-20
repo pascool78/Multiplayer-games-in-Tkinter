@@ -20,6 +20,7 @@ $ git clone https://github.com/pascool78/Super-simple-client-server-multiplayer-
 $ cd Super-simple-client-server-multiplayer-games-in-tkinter
 $ sudo pip3 install -r requiment.txt
 ```
+For those who used the .deb for the installation, remove python3 from all the following commands.
 
 Start the seveur:
 ```sh
@@ -61,6 +62,7 @@ $ git clone https://github.com/pascool78/Super-simple-client-server-multiplayer-
 $ cd Super-simple-client-server-multiplayer-games-in-tkinter
 $ sudo pip3 install -r requiment.txt
 ```
+Pour ceux qui ont utilisé le .deb pour l'installation enlever python3 à toute les commande qui suivent.
 
 Démarrez le seveur:
 ```sh
