@@ -22,7 +22,7 @@ $ sudo pip3 install -r requiment.txt
 ```
 
 Start the seveur:
-`` `sh
+```sh
 $ cd bin
 $ sudo python3 server.py
 ```
