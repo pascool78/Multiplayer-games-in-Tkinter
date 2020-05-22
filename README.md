@@ -6,11 +6,11 @@ Installation of the compiled game:
 
 Mac:
 ```sh
-$ /bin/bash -c "$ (curl -O https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter/releases/download/0.5/installmac)"
+$ /bin/bash -c "$(curl -O https://github-production-release-asset-2e65be.s3.amazonaws.com/265296127/dab0d880-9c24-11ea-8177-22f0f465ba38?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200522T120022Z&X-Amz-Expires=300&X-Amz-Signature=0a8e8b3f9a09c9e22f261e4a9f1cb73165d08fc3e7f3d5de9f52e2e282f43dbd&X-Amz-SignedHeaders=host&actor_id=56075144&repo_id=265296127&response-content-disposition=attachment%3B%20filename%3Dinstallmac&response-content-type=application%2Foctet-stream)"
 ```
 Linux:
 ```sh
-$ /bin/bash -c "$ (curl -O https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter/releases/download/0.5/installlinux)"
+$ /bin/bash -c "$(curl -O https://github-production-release-asset-2e65be.s3.amazonaws.com/265296127/dab0d880-9c24-11ea-8177-22f0f465ba38?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200522T120022Z&X-Amz-Expires=300&X-Amz-Signature=0a8e8b3f9a09c9e22f261e4a9f1cb73165d08fc3e7f3d5de9f52e2e282f43dbd&X-Amz-SignedHeaders=host&actor_id=56075144&repo_id=265296127&response-content-disposition=attachment%3B%20filename%3Dinstallmac&response-content-type=application%2Foctet-stream)"
 ```
 
 Installation from sources:
