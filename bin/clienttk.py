@@ -2,7 +2,7 @@
 #V 0.4
 #
 # XXL1212
-# CC BY-NC-SA 2.0 FR
+# MIT
 from tkinter import *
 import tkinter,sys,PIL
 from  PIL import Image,ImageTk
@@ -13,8 +13,8 @@ import json
 global label, nj, canvas,label,label2
 nj =  int(sys.argv[1])
 nj2 =  int(sys.argv[2])
-image_j1 = "Images/" + str(nj) + ".ppm"
-image_j2 = "Images/" + str(nj2) + ".ppm"
+image_j1 = "images/" + str(nj) + ".ppm"
+image_j2 = "images/" + str(nj2) + ".ppm"
 x1 = 100
 y1 = 100
 x2 = 100
