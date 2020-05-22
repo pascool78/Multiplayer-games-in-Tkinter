@@ -19,6 +19,7 @@ x1 = 100
 y1 = 100
 x2 = 100
 y2 = 100
+t = 30
 photo=PIL.ImageTk.PhotoImage(PIL.Image.open(image_j1).resize((t, t),Image.ANTIALIAS))
 photo2=PIL.ImageTk.PhotoImage(PIL.Image.open(image_j2).resize((t, t),Image.ANTIALIAS))
 canvas = Canvas(root, width = 400, height = 400)
