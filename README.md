@@ -6,11 +6,11 @@ Installation of the compiled game:
 
 Mac:
 ```sh
-$ /bin/bash -c "$(curl -O https://raw.githubusercontent.com/pascool78/ImageandVideo/master/installmac)"
+$ curl https://raw.githubusercontent.com/pascool78/ImageandVideo/master/installmac -o installmac && bash installmac
 ```
 Linux:
 ```sh
-$ /bin/bash -c "$(curl -O https://raw.githubusercontent.com/pascool78/ImageandVideo/master/installlinux)"
+$ wget https://raw.githubusercontent.com/pascool78/ImageandVideo/master/installlinux && bash installlinux
 ```
 
 Installation from sources:
