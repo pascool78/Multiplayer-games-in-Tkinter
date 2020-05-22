@@ -1,7 +1,7 @@
 English:
+<br/>Demo1: https://youtu.be/80ThOeaSyMc
 
 Use:
-Demo1: https://youtu.be/80ThOeaSyMc
 
 Installation of the compiled game:
 
@@ -28,7 +28,7 @@ $ sudo dpkg -i debuntuX.X.d
 In the directory where you have downloaded the .deb.
 
 Linux and Mac:
-<br/> For Mac you need to install: https://brew.sh. Then execute:
+<br/>For Mac you need to install: https://brew.sh. Then execute:
 ```sh
 $ sudo brew install git
 ```
@@ -57,7 +57,7 @@ $ python3 clienttk.py 2 1
 Warning: At the bottom of the server.py and clienttk.py files, an IP address is marked (192.168.0.2), please replace it with the server address.
 
 Français:
-Demo1: https://youtu.be/80ThOeaSyMc
+<br/>Demo1: https://youtu.be/80ThOeaSyMc
 
 Utilstaion:
 
