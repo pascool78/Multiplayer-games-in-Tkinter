@@ -6,11 +6,11 @@ Installation of the compiled game:
 
 Mac:
 ```sh
-$ / bin / bash -c "$ (curl -O https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter/releases/download/0.5/installmac)"
+$ /bin/bash -c "$ (curl -O https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter/releases/download/0.5/installmac)"
 ```
 Linux:
 ```sh
-$ / bin / bash -c "$ (curl -O https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter/releases/download/0.5/installlinux)"
+$ /bin/bash -c "$ (curl -O https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter/releases/download/0.5/installlinux)"
 ```
 
 Installation from sources:
