@@ -16,6 +16,7 @@ $ sudo dpkg -i debuntuX.X.deb
 In the directory where you have downloaded the .deb.
 
 Linux and Mac:
+<br/> For Mac you need to install: https://brew.sh
 ```sh
 $ git clone https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter.git
 $ cd Super-simple-client-server-multiplayer-games-in-tkinter
@@ -59,6 +60,7 @@ $ sudo dpkg -i debuntuX.X.deb
 Dans le répertoire ou vous avez télécharger le .deb.
 
 Linux et Mac:
+<br/>Pour Mac il faut installer : https://brew.sh
 ```sh
 $ git clone https://github.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter.git
 $ cd Super-simple-client-server-multiplayer-games-in-tkinter
