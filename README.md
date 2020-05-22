@@ -1,6 +1,7 @@
 English:
 
 Use:
+Demo1: https://youtu.be/80ThOeaSyMc
 
 Installation of the compiled game:
 
@@ -56,6 +57,7 @@ $ python3 clienttk.py 2 1
 Warning: At the bottom of the server.py and clienttk.py files, an IP address is marked (192.168.0.2), please replace it with the server address.
 
 Français:
+Demo1: https://youtu.be/80ThOeaSyMc
 
 Utilstaion:
 
