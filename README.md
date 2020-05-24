@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter.svg?branch=master)](https://travis-ci.com/pascool78/Super-simple-client-server-multiplayer-games-in-tkinter)
+
 English:
 <br/>Demo1: https://youtu.be/80ThOeaSyMc
 
