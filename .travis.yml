@@ -1,1 +1,9 @@
 language: python
+
+{
+  "language": "python",
+  "os": [
+    "linux"
+  ],
+  "dist": "xenial"
+}
