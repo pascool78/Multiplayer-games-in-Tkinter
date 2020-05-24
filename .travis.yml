@@ -1,9 +1,2 @@
 language: python3
-
-{
-  "language": "python3",
-  "os": [
-    "linux"
-  ],
-  "dist": "focal"
-}
+os : linux
